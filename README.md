@@ -1,19 +1,28 @@
+
 # Jungla
 
-## Description
-This is a generic project.
+## Project Description
+A jungle-themed social media platform for sharing nature experiences.
+
+## Features
+- Photo and video sharing
+- Nature-themed filters
+- Community engagement
+
+## Technology Stack
+React Native, Node.js, MongoDB
 
 ## Installation
-Refer to the project documentation for installation instructions.
+Clone the repository and run `npm install` followed by `npm start`.
 
 ## Usage
-Refer to the project documentation for usage instructions.
+Share your nature experiences and connect with others.
 
 ## Contributing
-Please fork the repo and submit a pull request.
-
-## Author
-DevGruGold AKA Joseph Andrew Lee
+Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+For any inquiries, please contact DevGruGold AKA Joseph Andrew Lee.
